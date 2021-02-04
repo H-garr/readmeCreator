@@ -1,11 +1,11 @@
-#Title
+#title
     
   
     
 ## Description
     
 
-    Install
+    des
     
 
     
@@ -21,22 +21,24 @@
     
 * [Questions](#Questions)  
     
-* [Email & Github](#Email & Github)  
-    *Usage #Usage
+* [Github](#Github)
+    
+* [Email](#Email)
+    *toc #toc
     
 
     
 ## Installation
     
 
-    Install
+    install
     
 
     
 ## Usage
     
 
-    Usage
+    usage
     
 
     
@@ -52,28 +54,28 @@
 ## Contributions
     
 
-    Contrib
+    contrib
     
 
     
 ## Questions
     
 
-    no
+    ques
     
 
     
-##Github Link
+## Github 
     
 
     H-garr
     
-![Github Profile](https://github.com/H-garr)
+! [Github Profile](https://github.com/H-garr)
     
 
     
-##Email 
+## Email 
     
-Please reach me at: hagarrard@gmail.com with any questions.
+Please reach me at: email.com with any questions.
 
     

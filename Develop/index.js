@@ -82,7 +82,8 @@ inquirer
     \n* [Licenses](#Licenses)  
     \n* [Contributions](#Contributions)  
     \n* [Questions](#Questions)  
-    \n* [Email & Github](#Email & Github)  
+    \n* [Github](#Github)
+    \n* [Email](#Email)
     *${response.toC} #${response.toC}
     \n
     \n## Installation
@@ -106,12 +107,12 @@ inquirer
     \n
     ${response.questions}
     \n
-    \n##Github Link
+    \n## Github 
     \n
     ${response.gitHub}
-    \n![Github Profile](https://github.com/${response.gitHub})
+    \n! [Github Profile](https://github.com/${response.gitHub})
     \n
-    \n##Email 
+    \n## Email 
     \nPlease reach me at: ${response.email} with any questions.
 
     `;
