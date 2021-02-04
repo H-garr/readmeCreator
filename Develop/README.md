@@ -1,11 +1,11 @@
-#title
+#Title
     
   
     
 ## Description
     
 
-    des
+    Install
     
 
     
@@ -22,52 +22,58 @@
 * [Questions](#Questions)  
     
 * [Email & Github](#Email & Github)  
-    *tic #tic
+    *Usage #Usage
     
 
     
 ## Installation
     
 
-    install
+    Install
     
 
     
 ## Usage
     
 
-    usage
+    Usage
     
 
     
 ## Licenses
     
 
-    ISC
+    MIT
     
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
 
     
 ## Contributions
     
 
-    contrib
+    Contrib
     
 
     
 ## Questions
     
 
-    q
+    no
     
 
     
-## Email & Github Link
+##Github Link
     
 
-    undefined
+    H-garr
+    
+![Github Profile](https://github.com/H-garr)
     
 
-    enaik
+    
+##Email 
+    
+Please reach me at: hagarrard@gmail.com with any questions.
+
     

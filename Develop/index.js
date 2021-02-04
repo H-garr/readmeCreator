@@ -58,7 +58,7 @@ inquirer
     },
     {
         type: "input",
-        message: "What is your gitHub URL?",
+        message: "What is your gitHub repo-name?",
         name: "gitHub",
     },
     {
@@ -106,11 +106,14 @@ inquirer
     \n
     ${response.questions}
     \n
-    \n## Email & Github Link
+    \n##Github Link
     \n
-    ${response.gitHib}
+    ${response.gitHub}
+    \n![Github Profile](https://github.com/${response.gitHub})
     \n
-    ${response.email}
+    \n##Email 
+    \nPlease reach me at: ${response.email} with any questions.
+
     `;
     fs.writeFile("README.md", readme, err => err ? console.error(err) : console.log("success!"));
   });
