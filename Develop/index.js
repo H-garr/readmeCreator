@@ -32,24 +32,24 @@ inquirer
     },
     {
         type: 'input',
-        message: 'Provide some information about Installation Usage please.',
-        name: 'infoUsage',
+        message: 'Provide some information about Installation please.',
+        name: 'install',
+    },
+    {
+        type: 'input',
+        message: 'Provide some information about Usage please.',
+        name: 'usage',
     },
     {
         type: 'rawlist', 
-        // fix here
+        choices: ["MIT", "ISC", "APATCHI 2.0", "NONE"],
         message: 'Please choose from one of the following licenses:',
         name: 'licenses',
     },
     {
         type: 'input',
-        message: 'Please input your Table of Contents.',
+        message: 'Please input your contributions.',
         name: 'contributions',
-    },
-    {
-        type: 'input',
-        message: 'Provide some information about Installation Usage please.',
-        name: 'tests',
     },
     {
         type: 'input',
@@ -58,7 +58,7 @@ inquirer
     },
     {
         type: "input",
-        message: "What is your gitHub user name (without the @)",
+        message: "What is your gitHub URL?",
         name: "gitHub",
     },
     {
@@ -76,7 +76,36 @@ inquirer
     \n
     ${response.description}
     \n
+    ## Table of Contents
+    * [installation](#installation) 
+    \n
     *${response.toC} #${response.toC}
+    \n
+    ## Installation
+    \n
+    ${response.install}
+    \n
+    ## Usage
+    \n
+    ${response.usage}
+    \n
+    ## Licenses
+    \n
+    ${response.licenses}
+    \n
+    ## Contributions
+    \n
+    ${response.contributions}
+    \n
+    ## Questions
+    \n
+    ${response.questions}
+    \n
+    ## Email & Github Link
+    \n
+    ${response.gitHib}
+    \n
+    ${response.email}
     `;
-    fs.writeFile("README.md", html, err => err ? console.error(err) : console.log("success!"));
+    fs.writeFile("README.md", readme, err => err ? console.error(err) : console.log("success!"));
   });
