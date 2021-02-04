@@ -1,11 +1,11 @@
-#title
+#Read Me Generator
     
   
     
 ## Description
     
 
-    des
+    Creates Read Mes!
     
 
     
@@ -30,14 +30,14 @@
 ## Installation
     
 
-    info
+    Just package info of npm i in terminal
     
 
     
 ## Usage
     
 
-    ise
+    Here is a video of the usage https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view
     
 
     
@@ -53,28 +53,28 @@
 ## Contributions
     
 
-    controb
+    The whole thing plus help from my tutor
     
 
     
 ## Questions
     
 
-    q
+    No questions, a comment that i did get stuck and tutor helped greatly
     
 
     
 ## Github 
     
 
-    github
+    H-garr
     
-! [Github Profile](https://github.com/github)
+! [Github Profile](https://github.com/H-garr)
     
 
     
 ## Email 
     
-Please reach me at: email with any questions.
+Please reach me at: Hagarrard@gmail.com with any questions.
 
     
