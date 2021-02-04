@@ -24,58 +24,57 @@
 * [Github](#Github)
     
 * [Email](#Email)
-    *toc #toc
     
 
     
 ## Installation
     
 
-    install
+    info
     
 
     
 ## Usage
     
 
-    usage
+    ise
     
 
     
 ## Licenses
     
 
-    MIT
+    NONE
     
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)
     
 
     
 ## Contributions
     
 
-    contrib
+    controb
     
 
     
 ## Questions
     
 
-    ques
+    q
     
 
     
 ## Github 
     
 
-    H-garr
+    github
     
-! [Github Profile](https://github.com/H-garr)
+! [Github Profile](https://github.com/github)
     
 
     
 ## Email 
     
-Please reach me at: email.com with any questions.
+Please reach me at: email with any questions.
 
     
