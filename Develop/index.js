@@ -72,36 +72,41 @@ inquirer
     let readme = 
     `#${response.title}
     \n  
-    ## Description
+    \n## Description
     \n
     ${response.description}
     \n
-    ## Table of Contents
-    * [installation](#installation) 
-    \n
+    \n## Table of Contents
+    \n* [installation](#installation)  
+    \n* [Usage](#Usage)
+    \n* [Licenses](#Licenses)  
+    \n* [Contributions](#Contributions)  
+    \n* [Questions](#Questions)  
+    \n* [Email & Github](#Email & Github)  
     *${response.toC} #${response.toC}
     \n
-    ## Installation
+    \n## Installation
     \n
     ${response.install}
     \n
-    ## Usage
+    \n## Usage
     \n
     ${response.usage}
     \n
-    ## Licenses
+    \n## Licenses
     \n
     ${response.licenses}
+    \n![GitHub license](https://img.shields.io/badge/license-${response.licenses}-blue.svg)
     \n
-    ## Contributions
+    \n## Contributions
     \n
     ${response.contributions}
     \n
-    ## Questions
+    \n## Questions
     \n
     ${response.questions}
     \n
-    ## Email & Github Link
+    \n## Email & Github Link
     \n
     ${response.gitHib}
     \n
