@@ -14,7 +14,9 @@
 * [installation](#installation)  
     
 * [Usage](#Usage)
-    
+ 
+* [Technologies](#technologies) 
+
 * [Licenses](#Licenses)  
     
 * [Contributions](#Contributions)  
@@ -30,7 +32,8 @@
 ## Installation
     
 
-    Just package info of npm i in terminal
+    Just package info of npm install in terminal
+    To run after installation, enter "node index.js" into the command line.
     
 
     
@@ -39,7 +42,9 @@
 
     Here is a video of the usage https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view
     
+## Technologies
 
+    npm package Inquirer and Jquery
     
 ## Licenses
     
