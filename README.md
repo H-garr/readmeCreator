@@ -69,7 +69,7 @@
 
     H-garr
     
-! [Github Profile](https://github.com/H-garr)
+[Github Profile](https://github.com/H-garr)
     
 
     
