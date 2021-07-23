@@ -40,7 +40,8 @@
 ## Usage
     
 
-    Here is a video of the usage https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view
+    Here is a video of the usage 
+    <a href="https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view">Video Here</a>
     
 ## Technologies
 
