@@ -13,19 +13,19 @@
     
 * [installation](#installation)  
     
-* [Usage](#Usage)
+* [Usage](#usage)
  
 * [Technologies](#technologies) 
 
-* [Licenses](#Licenses)  
+* [Licenses](#licenses)  
     
-* [Contributions](#Contributions)  
+* [Contributions](#contributions)  
     
-* [Questions](#Questions)  
+* [Questions](#questions)  
     
-* [Github](#Github)
+* [Github](#github)
     
-* [Email](#Email)
+* [Email](#email)
     
 
     
@@ -38,8 +38,8 @@
 
     
 ## Usage
-    [Video Here](https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view)
-    
+
+    ![Github license](https://drive.google.com/file/d/1w3oSj-dQWI0kF9CSQon-N72VksM3VhKY/view)
 ## Technologies
 
     npm package Inquirer and Jquery
